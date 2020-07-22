@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	
+  background-color:#838687;
+  font-family: Veranda, "sans-serif";
+  color: black;
+}
+
+p { 
+
+	color: #534CAD;
+
+}
+
+em { 
+	color: red;
+	font: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 32px;
+}
+
+
+
+strong { 
+	color: purple;
+	font-size: 22px;
+}
+
+h1 { 
+ font-size: 80px;	
+	
+}
+
+ul {
+	color: red;
+}
